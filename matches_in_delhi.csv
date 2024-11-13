@@ -1,0 +1,55 @@
+id,city,date,team1,team2,toss_winner,toss_decision,winner,player_of_match,venue
+3,Delhi,4/19/2008,Rajasthan Royals,Delhi Daredevils,Rajasthan Royals,bat,Delhi Daredevils,MF Maharoof,Feroz Shah Kotla
+17,Delhi,4/30/2008,Delhi Daredevils,Royal Challengers Bangalore,Royal Challengers Bangalore,field,Delhi Daredevils,GD McGrath,Feroz Shah Kotla
+28,Delhi,05-08-2008,Delhi Daredevils,Chennai Super Kings,Chennai Super Kings,field,Chennai Super Kings,MS Dhoni,Feroz Shah Kotla
+39,Delhi,5/15/2008,Delhi Daredevils,Deccan Chargers,Deccan Chargers,field,Delhi Daredevils,A Mishra,Feroz Shah Kotla
+41,Delhi,5/17/2008,Delhi Daredevils,Kings XI Punjab,Delhi Daredevils,bat,Kings XI Punjab,DPMD Jayawardene,Feroz Shah Kotla
+50,Delhi,5/24/2008,Mumbai Indians,Delhi Daredevils,Delhi Daredevils,field,Delhi Daredevils,KD Karthik,Feroz Shah Kotla
+124,Delhi,3/17/2010,Mumbai Indians,Delhi Daredevils,Delhi Daredevils,field,Mumbai Indians,SR Tendulkar,Feroz Shah Kotla
+126,Delhi,3/19/2010,Delhi Daredevils,Chennai Super Kings,Delhi Daredevils,bat,Chennai Super Kings,ML Hayden,Feroz Shah Kotla
+141,Delhi,3/29/2010,Delhi Daredevils,Kolkata Knight Riders,Delhi Daredevils,bat,Delhi Daredevils,DA Warner,Feroz Shah Kotla
+144,Delhi,3/31/2010,Delhi Daredevils,Rajasthan Royals,Delhi Daredevils,bat,Delhi Daredevils,KD Karthik,Feroz Shah Kotla
+150,Delhi,04-04-2010,Delhi Daredevils,Royal Challengers Bangalore,Delhi Daredevils,bat,Delhi Daredevils,PD Collingwood,Feroz Shah Kotla
+159,Delhi,04-11-2010,Delhi Daredevils,Kings XI Punjab,Delhi Daredevils,bat,Kings XI Punjab,PP Chawla,Feroz Shah Kotla
+170,Delhi,4/18/2010,Deccan Chargers,Delhi Daredevils,Deccan Chargers,bat,Deccan Chargers,A Symonds,Feroz Shah Kotla
+179,Delhi,04-10-2011,Delhi Daredevils,Mumbai Indians,Delhi Daredevils,bat,Mumbai Indians,SL Malinga,Feroz Shah Kotla
+194,Delhi,4/19/2011,Deccan Chargers,Delhi Daredevils,Deccan Chargers,bat,Deccan Chargers,S Sohal,Feroz Shah Kotla
+200,Delhi,4/23/2011,Delhi Daredevils,Kings XI Punjab,Kings XI Punjab,field,Delhi Daredevils,DA Warner,Feroz Shah Kotla
+204,Delhi,4/26/2011,Delhi Daredevils,Royal Challengers Bangalore,Royal Challengers Bangalore,field,Royal Challengers Bangalore,V Kohli,Feroz Shah Kotla
+207,Delhi,4/28/2011,Kolkata Knight Riders,Delhi Daredevils,Delhi Daredevils,field,Kolkata Knight Riders,MK Tiwary,Feroz Shah Kotla
+215,Delhi,05-02-2011,Delhi Daredevils,Kochi Tuskers Kerala,Kochi Tuskers Kerala,field,Kochi Tuskers Kerala,P Parameswaran,Feroz Shah Kotla
+242,Delhi,5/21/2011,Delhi Daredevils,Pune Warriors,Delhi Daredevils,bat,Delhi Daredevils,A Chandila,Feroz Shah Kotla
+259,Delhi,04-10-2012,Chennai Super Kings,Delhi Daredevils,Delhi Daredevils,field,Delhi Daredevils,M Morkel,Feroz Shah Kotla
+264,Delhi,4/19/2012,Deccan Chargers,Delhi Daredevils,Deccan Chargers,bat,Delhi Daredevils,KP Pietersen,Feroz Shah Kotla
+276,Delhi,4/21/2012,Pune Warriors,Delhi Daredevils,Delhi Daredevils,field,Pune Warriors,SC Ganguly,Feroz Shah Kotla
+283,Delhi,4/27/2012,Delhi Daredevils,Mumbai Indians,Mumbai Indians,field,Delhi Daredevils,V Sehwag,Feroz Shah Kotla
+286,Delhi,4/29/2012,Delhi Daredevils,Rajasthan Royals,Delhi Daredevils,bat,Delhi Daredevils,V Sehwag,Feroz Shah Kotla
+298,Delhi,05-07-2012,Delhi Daredevils,Kolkata Knight Riders,Delhi Daredevils,bat,Kolkata Knight Riders,JH Kallis,Feroz Shah Kotla
+310,Delhi,5/15/2012,Kings XI Punjab,Delhi Daredevils,Kings XI Punjab,bat,Delhi Daredevils,UT Yadav,Feroz Shah Kotla
+313,Delhi,5/17/2012,Royal Challengers Bangalore,Delhi Daredevils,Delhi Daredevils,field,Royal Challengers Bangalore,CH Gayle,Feroz Shah Kotla
+326,Delhi,04-06-2013,Rajasthan Royals,Delhi Daredevils,Rajasthan Royals,bat,Rajasthan Royals,R Dravid,Feroz Shah Kotla
+335,Delhi,04-12-2013,Delhi Daredevils,Sunrisers Hyderabad,Delhi Daredevils,bat,Sunrisers Hyderabad,A Mishra,Feroz Shah Kotla
+345,Delhi,4/18/2013,Chennai Super Kings,Delhi Daredevils,Chennai Super Kings,bat,Chennai Super Kings,MEK Hussey,Feroz Shah Kotla
+349,Delhi,4/21/2013,Mumbai Indians,Delhi Daredevils,Mumbai Indians,bat,Delhi Daredevils,V Sehwag,Feroz Shah Kotla
+379,Delhi,05-10-2013,Royal Challengers Bangalore,Delhi Daredevils,Delhi Daredevils,field,Royal Challengers Bangalore,JD Unadkat,Feroz Shah Kotla
+384,Delhi,4/23/2013,Delhi Daredevils,Kings XI Punjab,Kings XI Punjab,field,Kings XI Punjab,Harmeet Singh,Feroz Shah Kotla
+395,Delhi,5/21/2013,Chennai Super Kings,Mumbai Indians,Chennai Super Kings,bat,Chennai Super Kings,MEK Hussey,Feroz Shah Kotla
+396,Delhi,5/22/2013,Sunrisers Hyderabad,Rajasthan Royals,Sunrisers Hyderabad,bat,Rajasthan Royals,BJ Hodge,Feroz Shah Kotla
+410,Delhi,4/25/2014,Sunrisers Hyderabad,Delhi Daredevils,Sunrisers Hyderabad,bat,Sunrisers Hyderabad,AJ Finch,Dubai International Cricket Stadium
+421,Delhi,05-03-2014,Delhi Daredevils,Rajasthan Royals,Rajasthan Royals,field,Rajasthan Royals,KK Nair,Feroz Shah Kotla
+424,Delhi,05-05-2014,Delhi Daredevils,Chennai Super Kings,Chennai Super Kings,field,Chennai Super Kings,DR Smith,Feroz Shah Kotla
+426,Delhi,05-07-2014,Delhi Daredevils,Kolkata Knight Riders,Delhi Daredevils,bat,Kolkata Knight Riders,G Gambhir,Feroz Shah Kotla
+430,Delhi,05-10-2014,Delhi Daredevils,Sunrisers Hyderabad,Sunrisers Hyderabad,field,Sunrisers Hyderabad,DW Steyn,Feroz Shah Kotla
+443,Delhi,5/19/2014,Delhi Daredevils,Kings XI Punjab,Kings XI Punjab,field,Kings XI Punjab,AR Patel,Feroz Shah Kotla
+464,Delhi,04-12-2015,Delhi Daredevils,Rajasthan Royals,Rajasthan Royals,field,Rajasthan Royals,DJ Hooda,Feroz Shah Kotla
+476,Delhi,4/20/2015,Delhi Daredevils,Kolkata Knight Riders,Kolkata Knight Riders,field,Kolkata Knight Riders,UT Yadav,Feroz Shah Kotla
+480,Delhi,4/23/2015,Delhi Daredevils,Mumbai Indians,Mumbai Indians,field,Delhi Daredevils,SS Iyer,Feroz Shah Kotla
+484,Delhi,4/26/2015,Delhi Daredevils,Royal Challengers Bangalore,Royal Challengers Bangalore,field,Royal Challengers Bangalore,VR Aaron,Feroz Shah Kotla
+489,Delhi,05-01-2015,Kings XI Punjab,Delhi Daredevils,Delhi Daredevils,field,Delhi Daredevils,NM Coulter-Nile,Feroz Shah Kotla
+524,Delhi,4/15/2016,Kings XI Punjab,Delhi Daredevils,Delhi Daredevils,field,Delhi Daredevils,A Mishra,Feroz Shah Kotla
+534,Delhi,4/23/2016,Delhi Daredevils,Mumbai Indians,Mumbai Indians,field,Delhi Daredevils,SV Samson,Feroz Shah Kotla
+540,Delhi,4/27/2016,Gujarat Lions,Delhi Daredevils,Delhi Daredevils,field,Gujarat Lions,CH Morris,Feroz Shah Kotla
+543,Delhi,4/30/2016,Delhi Daredevils,Kolkata Knight Riders,Kolkata Knight Riders,field,Delhi Daredevils,CR Brathwaite,Feroz Shah Kotla
+550,Delhi,05-05-2016,Delhi Daredevils,Rising Pune Supergiants,Rising Pune Supergiants,field,Rising Pune Supergiants,AM Rahane,Feroz Shah Kotla
+575,Delhi,5/25/2016,Sunrisers Hyderabad,Kolkata Knight Riders,Kolkata Knight Riders,field,Sunrisers Hyderabad,MC Henriques,Feroz Shah Kotla
+576,Delhi,5/27/2016,Gujarat Lions,Sunrisers Hyderabad,Sunrisers Hyderabad,field,Sunrisers Hyderabad,DA Warner,Feroz Shah Kotla
